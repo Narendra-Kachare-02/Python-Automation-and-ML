@@ -17,3 +17,7 @@ print(List2)
 List2.remove(11)
 print(List2)
 
+
+List2.insert(2,11)
+print(List2)
+
